@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\models\\tollstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\models\\tollstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\models\\readerdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\models\\readerdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\models\\vehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\models\\vehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\models\\tolltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\models\\tolltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\etc system api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\etc system api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|d:\\work\\intelli\\etc system\\backend\\test 2\\etc system api\\etc system api\\etc system api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5AFFDD54-1D90-44A5-9BDE-42610AA77DD7}|ETC System API\\ETC System API.csproj|solutionrelative:etc system api\\etc system api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ETC System API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\WeatherForecast.cs",
+              "RelativeToolTip": "ETC System API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:01:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Program.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Program.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Program.cs",
+              "RelativeToolTip": "ETC System API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:46:14.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\appsettings.json",
+              "RelativeDocumentMoniker": "ETC System API\\appsettings.json",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\appsettings.json",
+              "RelativeToolTip": "ETC System API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T11:48:09.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ETC System API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAnwEYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:18:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ETC System API\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:14:04.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Services\\AdminService.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Services\\AdminService.cs",
+              "RelativeToolTip": "ETC System API\\Services\\AdminService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:41:28.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ETC System API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:47:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\Vehicle.cs",
+              "RelativeToolTip": "ETC System API\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:52:44.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleOwner.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\VehicleOwner.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Models\\VehicleOwner.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\VehicleOwner.cs",
+              "RelativeToolTip": "ETC System API\\Models\\VehicleOwner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:49:43.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TollTag.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\TollTag.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Models\\TollTag.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\TollTag.cs",
+              "RelativeToolTip": "ETC System API\\Models\\TollTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:22:10.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Models\\Payment.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\Payment.cs",
+              "RelativeToolTip": "ETC System API\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:48:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Models\\Admin.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\Admin.cs",
+              "RelativeToolTip": "ETC System API\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:29:01.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReaderDevice.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\ReaderDevice.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Models\\ReaderDevice.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\ReaderDevice.cs",
+              "RelativeToolTip": "ETC System API\\Models\\ReaderDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:41:52.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TollStation.cs",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\TollStation.cs",
+              "RelativeDocumentMoniker": "ETC System API\\Models\\TollStation.cs",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Models\\TollStation.cs",
+              "RelativeToolTip": "ETC System API\\Models\\TollStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:24:44.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ETC System API.http",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\ETC System API.http",
+              "RelativeDocumentMoniker": "ETC System API\\ETC System API.http",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\ETC System API.http",
+              "RelativeToolTip": "ETC System API\\ETC System API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-28T12:45:54.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ETC System API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ETC System API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T12:17:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ETC System API",
+              "DocumentMoniker": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\ETC System API.csproj",
+              "RelativeDocumentMoniker": "ETC System API\\ETC System API.csproj",
+              "ToolTip": "D:\\Work\\Intelli\\ETC System\\Backend\\Test 2\\ETC System API\\ETC System API\\ETC System API.csproj",
+              "RelativeToolTip": "ETC System API\\ETC System API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T12:17:41.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
